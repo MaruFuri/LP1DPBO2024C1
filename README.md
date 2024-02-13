@@ -1,5 +1,9 @@
 # LP1DPBO2024C1
 ## Latihan praktikum 1 DPBO 2024.  
+/*Saya Akmal Zulkifli, NIM 2101310, mengerjakan soal Latihan 1
+dalam mata kuliah DPBO. Untuk keberkahannya maka saya tidak
+melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/  
+
 Detail Soal Latihan Praktikum 1:  
 Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java,
 Python, dan PHP yang menampilkan informasi daftar anggota DPR (sekumpulan
